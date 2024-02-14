@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
+
+* {
+    padding:0px;
+    margin:0px;
+    color: white;
+    font-family: "Jomhuria", serif; 
+
+}
+
+body {
+    background: no-repeat;
+    background-image: linear-gradient(#3967DE, #2AC1E2);
+    height: auto;
+    width: auto;
+
+
+}
+
+
+header {
+    background-color: #3967DE;
+    height: 187px;
+    width: 100%;
+}
+
+header h1 {
+    font-size: 60px;
+    text-align: center;
+    line-height: 187px;
+}
+
+#box {
+    line-height: 260px;
+    width: 100%;
+    height: 13px;
+    background-color: #7087FF;
+}
+
+
+.balao01{
+    margin:180px 40px;
+    display: flex;
+    background-color: #fff;
+    width: 901px;
+    height: 387px;
+    border-radius: 30px;
+}
+
+#texto01 {
+    margin: auto auto;
+    padding: 20px 0;
+}
+
+#texto01 h2 {
+    color:#786CA8;
+    font-size: 50px;
+    margin-bottom: 30px;
+
+
+}
+
+#texto01 p {
+    color: #000000;
+    font-size: 30px;
+}
+
+#foto{
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    margin: auto 20px;
+
+
+}
+
+/*.triangulo{
+    width: 0; 
+    height: 0; 
+    border-top: 160px solid transparent;
+    border-bottom: 160px solid transparent;
+    border-left: 160px solid #ffffff;
+    rotate: -60deg;
+
+    margin: 120px 0px;
+}*/
+
+.balao02{
+    margin:20px 40px 100px 40px;
+    float: right;
+    background-color: #fff;
+    width: 901px;
+    height: 387px;
+    border-radius: 30px;
+}
+
+.balao02 h2{
+    text-align: center;
+    color:#786CA8;
+    font-size: 50px;
+    margin: 20px 0 ;
+   
+}
+
+#texto02 {
+    display: flex;
+    padding: 0 150px;
+    margin: auto 0;
+}
+
+#texto02 li{
+color: #000000;
+font-size: 30px;
+
+}
+
+#texto02 img {
+    padding-left :120px;
+}
+
+footer {
+    background-color: #7087FF;
+    text-align: center;
+    color: #fff;
+    font-size: 55px;
+    margin-top: 50%;
+    height: auto;
+}
+
+footer h3{
+    margin: 100px 0 30px 0;
+}
+
+footer h4 {
+    margin: 0 0 20px;
+}
+
+.redesocial {
+    background-color: #fff;
+    border-radius: 100px;
+    width:50%;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+.img {
+    margin: 20px auto 0 auto;
+}
+
+.sla {
+    margin: 0 200px ;
+}
